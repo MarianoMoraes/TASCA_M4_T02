@@ -1,34 +1,27 @@
-# TASCA_M4_T02
-TASCA_M4_T02
-Descripció
+# Graphical display of multiple variables.
 
 
 
-
-Visualització gràfica de múltiples variables.
-
-
-
-- Exercici 1
-Realitza la pràctica del notebook a GitHub "03 EXAMINING DATA" (fes una còpia i executa els comandaments amb el mateix dataset county.txt). Aquest exercici consisteix a observar les diferents possibilitats que ofereixen les diferents llibreries de visualització gràfica.
+- Exercise 1
+Perform the notebook practice on GitHub "03 EXAMINING DATA" (make a copy and run the commands with the same dataset county.txt). This exercise consists in observing the different possibilities offered by the different graphical visualization libraries.
 
 ->03 EXAMINING DATA
 
 
-- Exercici 2
-Fes les tasques de preprocessat  i adequació del Dataset que disposem en el repositori de GitHub PRE-PROCESSING-DATA amb l'objectiu de preparar-lo i treballar-lo com a dataframe per a extreure'n informació.
+- Exercise 2
+Pre-process and adapt the Dataset we have in the GitHub repository PRE-PROCESSING-DATA in order to prepare it and work it as a dataframe to extract information.
 
 ->PRE-PROCESSING-DATA/movies.dat
 
 
  Important
 
-El resultat final ha de ser un dataframe amb les variables de nom de la pel·lícula, any i genere. També és important quedar-se amb un sol gènere per a cada pel·lícula!
+The final result has to be a dataframe with the variables of movie name, year and genre. It is also important to keep only one genre for each movie!
 
 
 
-- Exercici 3
+- Exercise 3
 
-Mostra la teva creativitat. Què creus rellevant mostrar del Dataset "movies.dat" de l'exercici anterior?
+Show your creativity. What do you think is relevant to show from the "movies.dat" dataset from the previous exercise?
 
-Fes una o dues representacions gràfiques i justifica la teva elecció.
+Make one or two graphical representations and justify your choice.
